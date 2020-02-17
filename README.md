@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=oPObRc8tHgQ
+
+
 # Disclaimer
 This tutorial is built for ElasticSearch version 5.2. Version 5 features a bunch of [breaking changes](https://www.elastic.co/guide/en/elasticsearch/reference/current/breaking-changes-5.0.html) in terms of query DSL and mapping.
 
